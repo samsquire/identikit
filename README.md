@@ -8,6 +8,7 @@ YAML
 
 ```
 name: PoliticalSide
+question: What politics do you subscribe to?
 answers:
 - Centrist
 - Left wing
